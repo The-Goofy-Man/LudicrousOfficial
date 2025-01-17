@@ -41,5 +41,5 @@ npm run pstart
 ```shell
 npm start
 ```
-**Done! Your Server is now Ready at:**
-localhost:(whatever port you selected in setup)
+**Done! Your Server is now Redy at:**
+localhost:
